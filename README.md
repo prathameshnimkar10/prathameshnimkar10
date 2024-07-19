@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prathamesh!</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prathamesh-nimkar-8b911622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-nimkar-8b911622b" height="30" width="40" /></a>
-<a href="https://kaggle.com/prathameshnimkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathameshnimkar" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Cloud Computing </h5>
